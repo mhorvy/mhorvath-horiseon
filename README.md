@@ -6,6 +6,10 @@ Horiseon is a search engine optimization landing page for marketing purposes.
 
 HTML and CSS
 
+## Link to Deployment
+
+https://mhorvy.github.io/mhorvath-horiseon/
+
 ## License
 
 Distributed by Horiseon Social Solution Services, Inc.
